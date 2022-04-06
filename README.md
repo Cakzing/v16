@@ -61,9 +61,9 @@
 > pkg install ffmpeg
 > pkg install imagemagick
 > pkg install libwebp
-> git clone https://github.com/Ramdaniofficial/v16
+> git clone https://github.com/Cakzing/v16
 > cd /sdcard/v16
-> git clone https://github.com/Ramdaniofficial/node_modules
+> git clone https://github.com/Cakzing/node_modules
 > npm start
 ```
 
